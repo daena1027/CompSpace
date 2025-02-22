@@ -24,6 +24,7 @@ const ResultsScreen = ({ route, navigation }) => {
     );
 };
 
+// Styles for the ResultsScreen component
 const styles = StyleSheet.create({
     container: {
         flex: 1,
@@ -43,4 +44,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default ResultsScreen;
+export default ResultsScreen; // Export the ResultsScreen component

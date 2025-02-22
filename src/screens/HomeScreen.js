@@ -139,4 +139,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default HomeScreen;
+export default HomeScreen; // Export the HomeScreen component as the default export of this file.
