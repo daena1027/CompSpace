@@ -25,7 +25,7 @@ const HomeScreen = ({ navigation }) => {
 
     return ( 
         <View style={styles.container}>
-            <Text style={styles.header}>Welcome to STEMWitz!</Text>
+            <Text style={styles.header}>Welcome to CompSpace!</Text>
             <Text style={styles.title}>Test your STEM knowledge below!</Text>
             
             <Text style={styles.subtitle}>Please select a language:</Text>
