@@ -64,6 +64,8 @@ Britannica. (n.d.). Ada Lovelace: The First Computer Programmer. Britannica. Ret
 
 Britannica. (n.d.). Olympus Mons. Britannica. Retrieved from https://www.britannica.com/place/Olympus-Mons
 
+Expo Documentation: Expo. (n.d.). Expo Documentation. Expo. Retrieved February 22, 2025, from https://docs.expo.dev/
+
 GitHub Copilot. (2025). GitHub Copilot. GitHub. https://github.com/features/copilot
 
 GeeksforGeeks. (n.d.). Create an Interactive Quiz App Using React Native. GeeksforGeeks. Retrieved from https://www.geeksforgeeks.org/create-an-interactive-quiz-app-using-react-native/
@@ -86,6 +88,8 @@ NASA. (n.d.). Ocean Worlds Resources. NASA. Retrieved from https://science.nasa.
 NASA. (n.d.). Solar System Exploration. NASA. Retrieved from https://science.nasa.gov/solar-system/
 
 NASA. (n.d.). Sputnik and the Dawn of the Space Age. NASA. Retrieved from https://www.nasa.gov/history/sputnik/index.html
+
+React Native Documentation: React Native. (n.d.). React Native Docs. React Native. Retrieved from https://reactnative.dev/docs
 
 React Navigation. (n.d.). React Navigation Documentation. Retrieved from https://reactnavigation.org/
 

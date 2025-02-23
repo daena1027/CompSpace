@@ -16,7 +16,7 @@ const questions = {
                 Khmer: [
                     { answerText: "ម៉ាស៊ីនស៊ីភីយូ", isCorrect: true },
                     { answerText: "ម៉ាស៊ីនបោះពុម្ពកំព្យូទ័រ", isCorrect: false },      
-                    { answerText: "ប្រព័ន្ធកម្មវិធីកុំព្យូទ័រ", isCorrect: false }, //https://sala.moeys.gov.kh/kh/library/00001248
+                    { answerText: "ប្រព័ន្ធកម្មវិធីកុំព្យូទ័រ", isCorrect: false }, 
                 ],
             },
         },
